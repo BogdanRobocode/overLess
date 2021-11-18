@@ -1,6 +1,12 @@
 {
  "users: : [
-  
+    {
+      "id" : 1,
+      "name" : "Bogdan",
+      "surname" : "Chumak",
+      "photo_url" : "http://raw.githubs",
+      "balance" " 1800"
+    }
   ]
   
 }
